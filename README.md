@@ -16,3 +16,8 @@ $ cargo build
 # Running the executable
 $ cargo run
 ```
+
+```shell
+# Checks your code to make sure it compiles but doesn’t produce an executable.
+$ cargo check
+```
